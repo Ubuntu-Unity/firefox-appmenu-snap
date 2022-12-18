@@ -1,1 +1,3 @@
 native-messaging-portal.patch
+unity-menubar.patch
+fix_csd_window_buttons.patch

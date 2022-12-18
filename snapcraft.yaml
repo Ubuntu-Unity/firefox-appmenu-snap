@@ -1,4 +1,4 @@
-name: firefox
+name: firefox-appmenu
 version: "108.0.1-1"
 summary: Mozilla Firefox web browser
 description:  Firefox is a powerful, extensible web browser with support for modern web application technologies.
